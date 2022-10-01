@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I have a Bachelor degree in Mechatronic Engineer and more than 10 years of experirence working with project for Oil and Gas (On-Shore and Off-Shore) and Turbo Machinery.
+I'm from Brazil but I currently live in Tallin - Estonia.
 
-Im from Brazil but I currently living in Tallim - Estonia. 
+I have a bachelor's degree in Mechatronic Engineering and more than 10 years of experience working with projects for Oil and Gas (On-Shore and Off-Shore) and Turbo Machinery.
 
-In 2022, I decided to switch my carrear to the TI World. 
+In 2022, I decided to switch my career to the TI World.
 
 I’m learning CSS, HTML and JavaScript.
 
