@@ -1,13 +1,12 @@
 ### Hello there 👋
 
-I'm from Brazil but I currently live in Tallin - Estonia.
+I'm a Braziling guy living in Tallin - Estonia.
 
-I have a bachelor's degree in Mechatronic Engineering and more than 10 years of experience working with projects for Oil and Gas (On-Shore and Off-Shore) and Turbo Machinery.
+I have a bachelor's degree in Mechatronic Engineering and more than 10 years of experience working with big projects in Oil and Gas (On-Shore and Off-Shore) and Turbo Machinery area.
 
-In 2022, I decided to switch my career to the TI World.
+In 2022, I decided to challenge myself and migrate my career to the TI World. 
 
 I’m learning CSS, HTML and JavaScript.
-
 - 😄 Pronouns: He/Him
 
 ##
